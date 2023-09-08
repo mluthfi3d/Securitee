@@ -1,0 +1,6 @@
+framework module Pods_Securitee {
+  umbrella header "Pods-Securitee-umbrella.h"
+
+  export *
+  module * { export * }
+}
